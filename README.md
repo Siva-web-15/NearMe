@@ -183,12 +183,12 @@ Execute the programs and publish them.
 </html>
 ```
 ## OUTPUT
-![alt text](image-8.png)
-![alt text](image-9.png)
-![alt text](image-10.png)
-![alt text](image-11.png)
-![alt text](image-12.png)
-![alt text](image-13.png)
+![output](image-8.png)
+![output](image-9.png)
+![output](image-10.png)
+![output](image-11.png)
+![output](image-12.png)
+![output](image-13.png)
 
 
 
